@@ -1,5 +1,5 @@
 # retail-sales-analysis
-SQLite and Power BI analysis of a retail sales dataset: data cleaning, window functions, CTEs, and dashboard.
+SQLite and Tableau analysis of a retail sales dataset: data cleaning, window functions, CTEs, and dashboard.
 
 ## İş Problemi
 Bu projede perakende satış verisiyle şu sorulara cevap aradım: Hangi kategoriler ve ürünler öne çıkıyor? Online ve mağaza satışları arasında fark var mı? İndirim harcamayı artırıyor mu? Satışlar zaman içinde nasıl değişiyor?
@@ -41,5 +41,7 @@ Tüm sonuçlar için: [Bulgular Raporu](report/findings.md)
 - Verideki son işlem tarihi 18 Ocak 2025, yani Ocak 2025 yarım bir ay. Aylık trend yorumlarında bu ay dışarıda tutuldu.
 - Veri setinde maliyet veya kâr bilgisi yok, analizler ciro ve işlem sayısı üzerinden yapıldı.
 
-## Power BI Dashboard
-Devam ediyor, henüz bitmedi.
+## Tableau Dashboard
+[Tableau Public'te Görüntüle](https://public.tableau.com/app/profile/nazlican.ates/viz/RetailSalesAnalysis_17923259052330/Dashboard1)
+
+![Dashboard](dashboard.png)
